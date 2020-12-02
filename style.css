@@ -1,0 +1,66 @@
+
+
+
+body {
+background-color : E9ECF5;
+ color: 993955e;
+font-family: 'Montserrat';
+font-size: 30 px; 
+line-height:1;}
+
+h1 {color : 993955;}
+
+h3 { color :  AE76A6 }
+
+
+/*Custom design with class */
+
+.container {
+	width:400 px; 
+	margin: 400 px auto; 
+	padding: 40px;
+	text-align: center;
+}
+
+.card-white {
+	background-color : white; 
+	padding : 40 px; 
+	border-radius: 4px; 
+	box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+	margin: 20px 0px;
+	text-align:center;
+	
+}
+
+.img-circle {border-radius: 50%;}
+
+.list-inline {
+	list-style : none;
+	padding-left: 0px;
+	padding-top: 20px;
+
+}
+
+.list-inline2 {
+	list-style: none;
+	padding-left: 0px;
+
+}
+
+.list-inline2 li {
+	display: inline;
+	padding-left: 20px;
+}
+
+.list-inline2 i: {
+	font-size:50px ;
+	color: rgb(230,230,230);
+}
+
+.list-inline2 i:hover {
+	font-size:50px ;
+	color: black;
+}
+@media (max-width: 500px)
+
+
