@@ -62,10 +62,10 @@ h3 { color :  AE76A6 }
 	color: black;
 }
 
-@media (max-width: 500px) {.container{
- width: 300px; 
+@media (max-width: 700px) {.container{
+ width: 300px; margin: 10px auto;
 }
-.cardwhite{width: 300px}
+.cardwhite{width: 300px; margin: 10px auto;}
 
 } 
 
